@@ -1,0 +1,6 @@
+com\flota\flotavehiculos\TipovehiculoService.class
+com\flota\flotavehiculos\Tipovehiculo.class
+com\flota\flotavehiculos\TipovehiculoRepositorio.class
+com\flota\flotavehiculos\TipovehiculoControlador.class
+com\flota\flotavehiculos\TipovehiculoServiceImp.class
+com\flota\flotavehiculos\FlotavehiculosApplication.class
